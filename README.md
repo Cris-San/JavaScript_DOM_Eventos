@@ -68,7 +68,7 @@ Adición dinámica de clases CSS (.error, .correcto) para personalizar los mensa
 ---
 
 ## 🌐 Demo
-Puedes visualizar el proyecto en GitHub Pages: Blog de Café Mejorado
+Puedes visualizar el proyecto en GitHub Pages: https://cris-san.github.io/JavaScript_DOM_Eventos/
 
 ---
 
@@ -80,6 +80,6 @@ Proyecto desarrollado con la intención de aprender y aplicar conceptos avanzado
 ## 📫 Contacto
 ¿Tienes ideas o sugerencias? ¡Conecta conmigo!
 
-🌐 LinkedIn
-🐙 GitHub
-✉️ Email: cris.san@example.com
+🌐 LinkedIn: https://www.linkedin.com/in/yubercristiansanchezospina/
+🐙 GitHub: https://github.com/Cris-San
+✉️ Email: cris629.cso@gmail.com
