@@ -39,3 +39,47 @@ El objetivo de este proyecto es:
 
 ---
 
+## 📂 Estructura del Proyecto  
+```plaintext
+📁 BlogCafeMejorado/
+├── 📁 css/            # Archivos de estilos
+├── 📁 img/            # Imágenes del blog
+├── index.html         # Página principal
+├── contacto.html      # Página de contacto con formulario
+├── entrada.html       # Página de artículo individual
+└── js/
+    └── script.js      # Lógica de interacción y validación
+```
+
+## 🔍 Funcionalidades Clave del Código
+Manejo de Eventos del DOM:
+
+Asociar eventos a elementos como botones y campos de entrada.
+Validar en tiempo real con el evento input.
+Validación del Formulario:
+
+Evitar el envío del formulario si algún campo está vacío usando preventDefault().
+Desestructuración del objeto datos para validar cada campo.
+Notificaciones Interactivas:
+
+Uso de setTimeout() para mostrar y remover mensajes temporales en el DOM.
+Adición dinámica de clases CSS (.error, .correcto) para personalizar los mensajes.
+
+---
+
+## 🌐 Demo
+Puedes visualizar el proyecto en GitHub Pages: Blog de Café Mejorado
+
+---
+
+## 🏆 Créditos
+Proyecto desarrollado con la intención de aprender y aplicar conceptos avanzados de JavaScript y DOM. Inspirado por la pasión por el café ☕ y el desarrollo web.
+
+---
+
+## 📫 Contacto
+¿Tienes ideas o sugerencias? ¡Conecta conmigo!
+
+🌐 LinkedIn
+🐙 GitHub
+✉️ Email: cris.san@example.com
