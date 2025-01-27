@@ -81,5 +81,7 @@ Proyecto desarrollado con la intención de aprender y aplicar conceptos avanzado
 ¿Tienes ideas o sugerencias? ¡Conecta conmigo!
 
 🌐 LinkedIn: https://www.linkedin.com/in/yubercristiansanchezospina/
+
 🐙 GitHub: https://github.com/Cris-San
+
 ✉️ Email: cris629.cso@gmail.com
